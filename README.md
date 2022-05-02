@@ -2,6 +2,8 @@
 
 #### Front-end developer [Angular, React, Vue]
 
+<a href="https://www.linkedin.com/in/felipe-gabriel-2386541b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 <!--
 **oFelipeGabriel/oFelipeGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
